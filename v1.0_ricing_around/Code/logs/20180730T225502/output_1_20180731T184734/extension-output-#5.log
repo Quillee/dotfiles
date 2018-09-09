@@ -1,0 +1,54 @@
+[Info  - 6:47:49 PM] ESLint server is running.
+[Info  - 6:47:55 PM] ESLint library loaded from: /home/mel/_/__projects/d3_star_wars_app/src/main/view/node_modules/eslint/lib/api.js
+[Warn  - 6:47:55 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/searchbar.jsx
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 6:49:53 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.jsx
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 6:50:02 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.jsx
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:18:41 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:20:51 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:20:56 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/searchbar.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:22:21 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.jsx
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:24:01 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/M'ain.jsx
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:24:06 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Main.jsx
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:24:16 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Searchbar.jsx
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:37:44 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:37:44 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Main.jsx
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 7:37:44 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Searchbar.jsx
+File will not be validated. Consider running 'eslint --init' in the workspace folder d3_star_wars_app
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.

@@ -1,0 +1,7 @@
+[ 21:01:37 | command ] git rev-parse --show-toplevel
+[ 21:01:37 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 21:01:37 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Searchbar.jsx" is not a decendant of a git repository
+[ 21:02:59 | command ] git rev-parse --show-toplevel
+[ 21:03:00 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 21:03:00 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Line.jsx" is not a decendant of a git repository
+[ 21:05:37 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Searchbar.jsx" from the internal cache

@@ -1,0 +1,31 @@
+[Info  - 6:04:42 AM] Linter is running.
+[Info  - 6:04:47 AM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/java/test_project/webpack.config.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 6:08:26 AM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/java/test_project/src/main/js/client.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 6:08:27 AM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/java/test_project/src/main/js/app.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 6:08:29 AM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/java/test_project/src/main/js/Employee.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 6:08:33 AM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/java/test_project/src/main/js/EmployeeWrapper.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.

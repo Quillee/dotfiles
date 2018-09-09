@@ -1,0 +1,106 @@
+[2018-09-02 18:47:11.226] [exthost1] [info] extension host started
+[2018-09-02 18:47:11.371] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:11.371] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/emmet/out/extension
+[2018-09-02 18:47:11.732] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:11.732] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/git/out/main
+[2018-09-02 18:47:13.441] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:13.441] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/merge-conflict/out/extension
+[2018-09-02 18:47:13.503] [exthost1] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:13.503] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/Equinusocio.vsc-material-theme-2.3.0/extensions/material.theme.config.js
+[2018-09-02 18:47:13.558] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:13.558] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/HookyQR.beautify-1.3.2/extension
+[2018-09-02 18:47:13.737] [exthost1] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:13.737] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/PKief.material-icon-theme-3.5.3/out/src/extension
+[2018-09-02 18:47:13.907] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:13.907] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-09-02 18:47:13.956] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:13.956] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/dbaeumer.vscode-eslint-1.4.12/client/out/extension
+[2018-09-02 18:47:14.327] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:14.327] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/eamodio.gitlens-8.4.1/out/extension
+[2018-09-02 18:47:16.230] [exthost1] [info] ExtensionService#_doActivateExtension lihui.vs-color-picker {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:16.230] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/lihui.vs-color-picker-0.7.0/out/src/extension
+[2018-09-02 18:47:16.236] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:16.236] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/oderwat.indent-rainbow-7.2.4/out/extension
+[2018-09-02 18:47:16.247] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:16.247] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/robertohuertasm.vscode-icons-7.25.0/out/src/
+[2018-09-02 18:47:16.659] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:16.659] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/vscodevim.vim-0.15.7/out/extension
+[2018-09-02 18:47:19.039] [exthost1] [info] ExtensionService#_doActivateExtension waderyan.gitblame {"startup":true,"activationEvent":"*"}
+[2018-09-02 18:47:19.039] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/waderyan.gitblame-2.4.4/out/src/index
+[2018-09-02 18:47:19.220] [exthost1] [info] ExtensionService#_doActivateExtension redhat.java {"startup":true,"activationEvent":"workspaceContains:pom.xml"}
+[2018-09-02 18:47:19.220] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/redhat.java-0.29.0/out/src/extension
+[2018-09-02 18:47:19.685] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2018-09-02 18:47:19.685] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/typescript-language-features/out/extension
+[2018-09-02 18:47:20.132] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2018-09-02 18:47:20.132] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0/out/src/extension
+[2018-09-02 18:47:20.189] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.jshint {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2018-09-02 18:47:20.189] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/dbaeumer.jshint-0.10.19/jshint/out/extension
+[2018-09-02 18:47:20.451] [exthost1] [info] ExtensionService#_doActivateExtension eg2.tslint {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2018-09-02 18:47:20.451] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/eg2.tslint-1.0.32/out/extension
+[2018-09-02 18:47:25.109] [exthost1] [info] ExtensionService#_doActivateExtension vscjava.vscode-maven {"startup":true,"activationEvent":"workspaceContains:**/pom.xml"}
+[2018-09-02 18:47:25.109] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/vscjava.vscode-maven-0.10.0/out/extension
+[2018-09-02 18:47:26.859] [exthost1] [info] eager extensions activated
+[2018-09-02 18:55:33.422] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-09-02 18:55:33.422] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/extension-editing/out/extension
+[2018-09-03 21:48:06.922] [exthost1] [info] extension host started
+[2018-09-03 21:48:07.040] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:07.040] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/emmet/out/extension
+[2018-09-03 21:48:07.310] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:07.310] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/git/out/main
+[2018-09-03 21:48:08.001] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:08.001] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/merge-conflict/out/extension
+[2018-09-03 21:48:08.048] [exthost1] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:08.048] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/Equinusocio.vsc-material-theme-2.3.0/extensions/material.theme.config.js
+[2018-09-03 21:48:08.091] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:08.091] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/HookyQR.beautify-1.4.2/extension
+[2018-09-03 21:48:08.316] [exthost1] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:08.316] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/PKief.material-icon-theme-3.5.3/out/src/extension
+[2018-09-03 21:48:08.510] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:08.510] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-09-03 21:48:08.568] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:08.568] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/dbaeumer.vscode-eslint-1.4.12/client/out/extension
+[2018-09-03 21:48:08.836] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:08.836] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/eamodio.gitlens-8.4.1/out/extension
+[2018-09-03 21:48:09.630] [exthost1] [info] ExtensionService#_doActivateExtension lihui.vs-color-picker {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:09.630] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/lihui.vs-color-picker-0.7.0/out/src/extension
+[2018-09-03 21:48:09.638] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:09.638] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/oderwat.indent-rainbow-7.2.4/out/extension
+[2018-09-03 21:48:09.642] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:09.642] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/robertohuertasm.vscode-icons-7.25.0/out/src/
+[2018-09-03 21:48:09.967] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:09.967] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/vscodevim.vim-0.15.7/out/extension
+[2018-09-03 21:48:11.528] [exthost1] [info] ExtensionService#_doActivateExtension waderyan.gitblame {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:11.528] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/waderyan.gitblame-2.4.4/out/src/index
+[2018-09-03 21:48:12.517] [exthost1] [info] eager extensions activated
+[2018-09-03 21:48:21.271] [exthost1] [info] extension host started
+[2018-09-03 21:48:21.424] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:21.425] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/emmet/out/extension
+[2018-09-03 21:48:21.648] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:21.648] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/git/out/main
+[2018-09-03 21:48:22.231] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:22.231] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/prog/vscode/resources/app/extensions/merge-conflict/out/extension
+[2018-09-03 21:48:22.274] [exthost1] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:22.274] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/Equinusocio.vsc-material-theme-2.3.0/extensions/material.theme.config.js
+[2018-09-03 21:48:22.307] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:22.307] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/HookyQR.beautify-1.4.2/extension
+[2018-09-03 21:48:22.493] [exthost1] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:22.493] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/PKief.material-icon-theme-3.5.3/out/src/extension
+[2018-09-03 21:48:22.643] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:22.643] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-09-03 21:48:22.685] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:22.685] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/dbaeumer.vscode-eslint-1.4.12/client/out/extension
+[2018-09-03 21:48:22.925] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:22.925] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/eamodio.gitlens-8.4.1/out/extension
+[2018-09-03 21:48:23.563] [exthost1] [info] ExtensionService#_doActivateExtension lihui.vs-color-picker {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:23.563] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/lihui.vs-color-picker-0.7.0/out/src/extension
+[2018-09-03 21:48:23.566] [exthost1] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:23.566] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/oderwat.indent-rainbow-7.2.4/out/extension
+[2018-09-03 21:48:23.570] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:23.570] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/robertohuertasm.vscode-icons-7.25.0/out/src/
+[2018-09-03 21:48:23.841] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:23.841] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/vscodevim.vim-0.15.7/out/extension
+[2018-09-03 21:48:25.063] [exthost1] [info] ExtensionService#_doActivateExtension waderyan.gitblame {"startup":true,"activationEvent":"*"}
+[2018-09-03 21:48:25.063] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/waderyan.gitblame-2.4.4/out/src/index
+[2018-09-03 21:48:26.037] [exthost1] [info] eager extensions activated
+[2018-09-03 21:51:26.171] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2018-09-03 21:51:26.171] [exthost1] [info] ExtensionService#loadCommonJSModule /home/mel/.vscode/extensions/ms-vscode.cpptools-0.18.1/out/src/main

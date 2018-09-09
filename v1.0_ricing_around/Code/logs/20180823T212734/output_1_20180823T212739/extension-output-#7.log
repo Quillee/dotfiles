@@ -1,0 +1,31 @@
+[Info  - 9:28:00 PM] Linter is running.
+[Info  - 9:28:05 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Line.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 9:28:05 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Searchbar.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 9:28:19 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Main.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 9:28:30 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Searchbar.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 9:30:21 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/svgComponents/Circle.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.

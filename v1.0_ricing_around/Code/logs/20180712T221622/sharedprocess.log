@@ -1,0 +1,196 @@
+[2018-07-12 22:16:24.909] [sharedprocess] [info] main {"machineId":"e43e270e76ce46d41bf4255c200a644424c4074168adcf5bc87dde28bc684b58"}
+[2018-07-12 22:16:25.380] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:25.429] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:25.668] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools-0.17.5
+[2018-07-12 22:16:30.456] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:30.467] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:30.506] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:30.524] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:30.570] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:30.601] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:30.645] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:30.868] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:35.310] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:37.855] [sharedprocess] [info] Installing extension: vscode-tomcat
+[2018-07-12 22:16:37.858] [sharedprocess] [info] Installing extension: shades-of-purple
+[2018-07-12 22:16:37.859] [sharedprocess] [info] Installing extension: vscode-npm-script
+[2018-07-12 22:16:37.860] [sharedprocess] [info] Installing extension: debugger-for-chrome
+[2018-07-12 22:16:37.860] [sharedprocess] [info] Installing extension: java
+[2018-07-12 22:16:37.861] [sharedprocess] [info] Installing extension: dark-plus-material
+[2018-07-12 22:16:37.863] [sharedprocess] [info] Installing extension: vscode-java-test
+[2018-07-12 22:16:37.864] [sharedprocess] [info] Installing extension: vscode-maven
+[2018-07-12 22:16:37.864] [sharedprocess] [info] Installing extension: vim
+[2018-07-12 22:16:38.568] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.586] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.599] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.618] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.625] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.636] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.651] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.659] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.669] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.828] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:38.853] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:39.060] [sharedprocess] [info] Downloaded extension: vscode-npm-script
+[2018-07-12 22:16:39.425] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.eg2.vscode-npm-script-0.3.5: eg2.vscode-npm-script-0.3.5
+[2018-07-12 22:16:39.426] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/eg2.vscode-npm-script-0.3.5
+[2018-07-12 22:16:39.426] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script-0.3.5
+[2018-07-12 22:16:39.460] [sharedprocess] [info] Extensions installed successfully: eg2.vscode-npm-script
+[2018-07-12 22:16:39.482] [sharedprocess] [info] Downloaded extension: dark-plus-material
+[2018-07-12 22:16:39.790] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:39.805] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:39.875] [sharedprocess] [info] Downloaded extension: vscode-maven
+[2018-07-12 22:16:39.959] [sharedprocess] [info] Downloaded extension: debugger-for-chrome
+[2018-07-12 22:16:40.036] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.vangware.dark-plus-material-1.2.0: vangware.dark-plus-material-1.2.0
+[2018-07-12 22:16:40.039] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/vangware.dark-plus-material-1.2.0
+[2018-07-12 22:16:40.039] [sharedprocess] [info] Installation completed. vangware.dark-plus-material-1.2.0
+[2018-07-12 22:16:40.078] [sharedprocess] [info] Extensions installed successfully: vangware.dark-plus-material
+[2018-07-12 22:16:40.415] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:40.430] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:41.070] [sharedprocess] [info] Downloaded extension: shades-of-purple
+[2018-07-12 22:16:41.609] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.ahmadawais.shades-of-purple-1.23.0: ahmadawais.shades-of-purple-1.23.0
+[2018-07-12 22:16:41.610] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/ahmadawais.shades-of-purple-1.23.0
+[2018-07-12 22:16:41.610] [sharedprocess] [info] Installation completed. ahmadawais.shades-of-purple-1.23.0
+[2018-07-12 22:16:41.644] [sharedprocess] [info] Extensions installed successfully: ahmadawais.shades-of-purple
+[2018-07-12 22:16:41.919] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:41.931] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:42.012] [sharedprocess] [info] Downloaded extension: vim
+[2018-07-12 22:16:43.324] [sharedprocess] [info] Downloaded extension: vscode-tomcat
+[2018-07-12 22:16:44.271] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.8.0: msjsdiag.debugger-for-chrome-4.8.0
+[2018-07-12 22:16:44.273] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/msjsdiag.debugger-for-chrome-4.8.0
+[2018-07-12 22:16:44.273] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome-4.8.0
+[2018-07-12 22:16:44.327] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2018-07-12 22:16:44.548] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.vscjava.vscode-maven-0.9.2: vscjava.vscode-maven-0.9.2
+[2018-07-12 22:16:44.551] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/vscjava.vscode-maven-0.9.2
+[2018-07-12 22:16:44.551] [sharedprocess] [info] Installation completed. vscjava.vscode-maven-0.9.2
+[2018-07-12 22:16:44.667] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2018-07-12 22:16:44.695] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:44.714] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:45.157] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:16:45.170] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:16:45.521] [sharedprocess] [info] Downloaded extension: vscode-java-test
+[2018-07-12 22:16:52.536] [sharedprocess] [info] Downloaded extension: java
+[2018-07-12 22:17:04.940] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-07-12 22:17:05.500] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.redhat.java-0.28.0: redhat.java-0.28.0
+[2018-07-12 22:17:05.501] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/redhat.java-0.28.0
+[2018-07-12 22:17:05.501] [sharedprocess] [info] Installation completed. redhat.java-0.28.0
+[2018-07-12 22:17:05.562] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2018-07-12 22:17:05.966] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:05.981] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:17:10.092] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.adashen.vscode-tomcat-0.10.0: adashen.vscode-tomcat-0.10.0
+[2018-07-12 22:17:10.093] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/adashen.vscode-tomcat-0.10.0
+[2018-07-12 22:17:10.093] [sharedprocess] [info] Installation completed. adashen.vscode-tomcat-0.10.0
+[2018-07-12 22:17:10.175] [sharedprocess] [info] Extensions installed successfully: adashen.vscode-tomcat
+[2018-07-12 22:17:10.667] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:10.705] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:17:11.585] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.vscodevim.vim-0.15.0: vscodevim.vim-0.15.0
+[2018-07-12 22:17:11.586] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/vscodevim.vim-0.15.0
+[2018-07-12 22:17:11.586] [sharedprocess] [info] Installation completed. vscodevim.vim-0.15.0
+[2018-07-12 22:17:11.649] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2018-07-12 22:17:12.289] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:12.319] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:12.350] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:17:12.375] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:17:28.141] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:28.142] [sharedprocess] [error] Failed to install extension: vscjava.vscode-java-test unknown
+[2018-07-12 22:17:32.132] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:32.169] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:32.217] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:17:32.221] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:17:32.302] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:33.019] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:34.291] [sharedprocess] [info] Installing extension: vscode-java-test
+[2018-07-12 22:17:34.420] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:34.615] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:17:34.624] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:17:35.106] [sharedprocess] [info] Downloaded extension: vscode-java-test
+[2018-07-12 22:18:02.070] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.vscjava.vscode-java-test-0.7.1: vscjava.vscode-java-test-0.7.1
+[2018-07-12 22:18:02.071] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/vscjava.vscode-java-test-0.7.1
+[2018-07-12 22:18:02.071] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test-0.7.1
+[2018-07-12 22:18:02.126] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2018-07-12 22:18:02.458] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:18:02.472] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:22:33.292] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:25:18.012] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:27:33.524] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:27:53.696] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:28:05.839] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:28:14.266] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:32:33.746] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:37:33.971] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:42:34.267] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:47:34.460] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:49:44.922] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:49:44.971] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:49:44.988] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:49:45.019] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:49:45.046] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-12 22:52:34.760] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 22:57:34.973] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 23:02:35.203] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 23:07:35.421] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 23:12:35.683] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 23:17:35.980] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 23:24:42.963] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 23:29:43.203] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 23:34:43.401] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-12 23:39:43.595] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:35.272] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:35.287] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:35.325] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:35.339] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-13 06:17:35.363] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-13 06:17:36.239] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:50.801] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:50.831] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:50.869] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:50.891] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:50.959] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-13 06:17:50.988] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-13 06:17:51.019] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-13 06:17:51.129] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:54.125] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:17:57.113] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:18:01.855] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:18:51.805] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:19:43.141] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:22:54.359] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:22:57.347] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:27:54.580] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:27:57.559] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:32:55.001] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:32:57.771] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:37:55.492] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:37:57.950] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:42:55.682] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:42:58.132] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:47:55.891] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-13 06:47:58.339] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 12:48:49.920] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 12:48:51.920] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 12:53:50.353] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 12:53:52.142] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 12:58:50.946] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 12:58:52.408] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:03:51.387] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:03:52.627] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:08:51.597] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:08:52.863] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:13:51.787] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:13:53.085] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:18:52.049] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:18:53.263] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:23:52.555] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:23:53.522] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:28:53.069] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:28:53.748] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:33:53.262] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:33:53.975] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:38:53.459] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:38:54.154] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:43:53.665] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-14 13:43:54.365] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-15 02:19:06.708] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-15 02:19:07.221] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-15 02:24:07.354] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-15 02:24:07.654] [sharedprocess] [info] Scanned user extensions: 50

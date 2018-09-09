@@ -1,0 +1,79 @@
+[Info  - 6:47:50 PM] Linter is running.
+[Info  - 6:47:55 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/searchbar.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 6:49:53 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 6:50:02 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:18:41 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:20:51 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:20:57 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/searchbar.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:22:22 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:22:32 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:22:35 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:23:04 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/searchbar.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:24:01 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/M'ain.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:24:07 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Main.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 7:24:16 PM] 
+Failed to load the TSLint library for the document /home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Searchbar.jsx
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.

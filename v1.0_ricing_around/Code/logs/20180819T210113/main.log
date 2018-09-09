@@ -1,0 +1,6 @@
+[2018-08-19 21:01:13.740] [main] [info] update#setState idle
+[2018-08-19 21:01:43.751] [main] [info] update#setState checking for updates
+[2018-08-19 21:02:14.182] [main] [error] Error: net::ERR_TIMED_OUT
+[2018-08-19 21:02:14.183] [main] [info] update#setState idle
+[2018-08-19 22:01:43.875] [main] [info] update#setState checking for updates
+[2018-08-19 22:01:44.682] [main] [info] update#setState available for download

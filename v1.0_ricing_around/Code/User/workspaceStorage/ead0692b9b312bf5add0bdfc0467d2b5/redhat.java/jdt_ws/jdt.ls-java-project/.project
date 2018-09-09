@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Percolation-HEAD__6914D0TRxbFcXbwv.java</name>
+			<type>1</type>
+			<location>//tmp/Percolation-HEAD__6914D0TRxbFcXbwv.java</location>
+		</link>
+		<link>
+			<name>src/Percolation-HEAD__6914F1zPvmMgcMOD.java</name>
+			<type>1</type>
+			<location>//tmp/Percolation-HEAD__6914F1zPvmMgcMOD.java</location>
+		</link>
+		<link>
+			<name>src/Percolation-HEAD__6914xvJEn1WrBCE7.java</name>
+			<type>1</type>
+			<location>//tmp/Percolation-HEAD__6914xvJEn1WrBCE7.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

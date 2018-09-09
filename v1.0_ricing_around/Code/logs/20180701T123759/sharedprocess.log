@@ -1,0 +1,284 @@
+[2018-07-01 12:38:02.984] [sharedprocess] [info] main {"machineId":"e43e270e76ce46d41bf4255c200a644424c4074168adcf5bc87dde28bc684b58"}
+[2018-07-01 12:38:03.446] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 12:38:03.560] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 12:38:04.723] [sharedprocess] [info] Deleted from disk enkia.enki-vscode-theme-0.3.2
+[2018-07-01 12:38:04.741] [sharedprocess] [info] Deleted from disk tinkertrain.theme-panda-1.2.0
+[2018-07-01 12:38:04.741] [sharedprocess] [info] Deleted from disk vangware.dark-plus-material-1.1.4
+[2018-07-01 12:38:04.998] [sharedprocess] [info] Deleted from disk xabikos.javascriptsnippets-1.6.0
+[2018-07-01 12:38:06.397] [sharedprocess] [info] Deleted from disk robertohuertasm.vscode-icons-7.23.0
+[2018-07-01 12:38:06.407] [sharedprocess] [info] Deleted from disk PKief.material-icon-theme-3.5.0
+[2018-07-01 12:38:06.407] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-debug-0.9.0
+[2018-07-01 12:38:06.411] [sharedprocess] [info] Deleted from disk vscodevim.vim-0.13.1
+[2018-07-01 12:38:06.417] [sharedprocess] [info] Deleted from disk Equinusocio.vsc-material-theme-2.1.0
+[2018-07-01 12:38:06.417] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools-0.17.4
+[2018-07-01 12:38:06.419] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-test-0.6.1
+[2018-07-01 12:38:16.444] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 12:38:16.463] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 12:38:16.490] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 12:38:16.578] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 12:38:16.600] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 12:38:17.285] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 12:38:43.009] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-07-01 12:43:17.486] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 12:48:17.656] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 13:00:13.326] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 13:05:13.512] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 13:10:13.661] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 13:15:13.850] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 13:20:14.014] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 13:25:14.159] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 13:30:14.436] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 14:59:24.745] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:04:24.890] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:09:25.017] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:14:25.179] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:24:40.438] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:29:40.905] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:34:41.051] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:39:41.215] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:44:41.380] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:49:41.759] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:52:08.657] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:52:17.289] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:54:42.026] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:56:24.737] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:56:24.742] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:56:24.754] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:56:24.902] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 15:56:24.931] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 15:56:41.257] [sharedprocess] [info] Installing extension: docker-linter
+[2018-07-01 15:56:41.390] [sharedprocess] [info] Scanned user extensions: 39
+[2018-07-01 15:56:41.904] [sharedprocess] [info] Downloaded extension: docker-linter
+[2018-07-01 15:56:43.228] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.henriiik.docker-linter-0.5.0: henriiik.docker-linter-0.5.0
+[2018-07-01 15:56:43.230] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/henriiik.docker-linter-0.5.0
+[2018-07-01 15:56:43.230] [sharedprocess] [info] Installation completed. henriiik.docker-linter-0.5.0
+[2018-07-01 15:56:43.269] [sharedprocess] [info] Extensions installed successfully: henriiik.docker-linter
+[2018-07-01 15:56:43.621] [sharedprocess] [info] Scanned user extensions: 40
+[2018-07-01 15:56:43.663] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 15:56:45.455] [sharedprocess] [info] Installing extension: docker-explorer
+[2018-07-01 15:56:45.562] [sharedprocess] [info] Scanned user extensions: 40
+[2018-07-01 15:56:46.183] [sharedprocess] [info] Downloaded extension: docker-explorer
+[2018-07-01 15:56:46.815] [sharedprocess] [info] Installing extension: vscode-docker
+[2018-07-01 15:56:46.907] [sharedprocess] [info] Scanned user extensions: 40
+[2018-07-01 15:56:47.073] [sharedprocess] [info] Scanned user extensions: 40
+[2018-07-01 15:56:47.120] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 15:56:48.089] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.formulahendry.docker-explorer-0.1.6: formulahendry.docker-explorer-0.1.6
+[2018-07-01 15:56:48.089] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/formulahendry.docker-explorer-0.1.6
+[2018-07-01 15:56:48.090] [sharedprocess] [info] Installation completed. formulahendry.docker-explorer-0.1.6
+[2018-07-01 15:56:48.118] [sharedprocess] [info] Extensions installed successfully: formulahendry.docker-explorer
+[2018-07-01 15:56:48.577] [sharedprocess] [info] Scanned user extensions: 41
+[2018-07-01 15:56:48.600] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 15:56:51.393] [sharedprocess] [info] Installing extension: vsc-docker
+[2018-07-01 15:56:51.521] [sharedprocess] [info] Scanned user extensions: 41
+[2018-07-01 15:56:52.561] [sharedprocess] [info] Downloaded extension: vscode-docker
+[2018-07-01 15:56:53.163] [sharedprocess] [info] Downloaded extension: vsc-docker
+[2018-07-01 15:56:56.538] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.Zim.vsc-docker-0.34.0: Zim.vsc-docker-0.34.0
+[2018-07-01 15:56:56.539] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/Zim.vsc-docker-0.34.0
+[2018-07-01 15:56:56.539] [sharedprocess] [info] Installation completed. Zim.vsc-docker-0.34.0
+[2018-07-01 15:56:56.570] [sharedprocess] [info] Extensions installed successfully: Zim.vsc-docker
+[2018-07-01 15:56:56.955] [sharedprocess] [info] Scanned user extensions: 42
+[2018-07-01 15:56:56.982] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 15:57:07.759] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.PeterJausovec.vscode-docker-0.0.27: PeterJausovec.vscode-docker-0.0.27
+[2018-07-01 15:57:07.761] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/PeterJausovec.vscode-docker-0.0.27
+[2018-07-01 15:57:07.761] [sharedprocess] [info] Installation completed. PeterJausovec.vscode-docker-0.0.27
+[2018-07-01 15:57:07.806] [sharedprocess] [info] Extensions installed successfully: PeterJausovec.vscode-docker
+[2018-07-01 15:57:08.283] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 15:57:08.290] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 15:57:08.325] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 15:57:08.350] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 15:57:58.890] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 15:59:42.524] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 16:04:42.806] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 16:09:43.266] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 16:14:43.831] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 16:19:44.165] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 16:24:44.585] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 16:29:44.985] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 16:34:45.440] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 16:54:11.151] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 16:59:11.593] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 17:04:12.532] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 17:09:12.785] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 17:14:13.116] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 17:19:13.298] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 17:24:13.703] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 17:29:14.005] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 17:34:14.422] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:10:57.356] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:19:24.895] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:24:25.164] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:29:25.614] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:34:26.040] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:39:26.320] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:44:26.560] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:49:26.823] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:54:26.982] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 18:59:27.231] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 19:04:27.565] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 19:09:27.833] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 19:14:28.361] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:40:44.801] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:45:45.001] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:50:45.508] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:14.388] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:14.404] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:14.474] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:51:14.500] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:51:23.607] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:23.625] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:23.651] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:23.661] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:23.672] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:23.794] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:51:23.826] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:51:23.868] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:51:24.045] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:28.106] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:29.210] [sharedprocess] [info] Installing extension: vsc-material-theme
+[2018-07-01 22:51:29.294] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:32.598] [sharedprocess] [info] Downloaded extension: vsc-material-theme
+[2018-07-01 22:51:46.625] [sharedprocess] [info] Installing extension: tslint
+[2018-07-01 22:51:46.962] [sharedprocess] [info] Scanned user extensions: 43
+[2018-07-01 22:51:48.978] [sharedprocess] [info] Downloaded extension: tslint
+[2018-07-01 22:52:23.272] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.eg2.tslint-1.0.32: eg2.tslint-1.0.32
+[2018-07-01 22:52:23.277] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/eg2.tslint-1.0.32
+[2018-07-01 22:52:23.277] [sharedprocess] [info] Installation completed. eg2.tslint-1.0.32
+[2018-07-01 22:52:23.422] [sharedprocess] [info] Extensions installed successfully: eg2.tslint
+[2018-07-01 22:52:24.435] [sharedprocess] [info] Scanned user extensions: 44
+[2018-07-01 22:52:24.526] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:52:24.689] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.Equinusocio.vsc-material-theme-2.3.0: Equinusocio.vsc-material-theme-2.3.0
+[2018-07-01 22:52:24.691] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/Equinusocio.vsc-material-theme-2.3.0
+[2018-07-01 22:52:24.691] [sharedprocess] [info] Installation completed. Equinusocio.vsc-material-theme-2.3.0
+[2018-07-01 22:52:24.733] [sharedprocess] [info] Extensions installed successfully: Equinusocio.vsc-material-theme
+[2018-07-01 22:52:25.086] [sharedprocess] [info] Installing extension: tslint
+[2018-07-01 22:52:25.413] [sharedprocess] [info] Scanned user extensions: 44
+[2018-07-01 22:52:26.669] [sharedprocess] [info] Scanned user extensions: 44
+[2018-07-01 22:52:26.759] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:52:27.013] [sharedprocess] [info] Downloaded extension: tslint
+[2018-07-01 22:52:30.659] [sharedprocess] [info] Installing extension: vscode-firefox-debug
+[2018-07-01 22:52:31.186] [sharedprocess] [info] Scanned user extensions: 44
+[2018-07-01 22:52:34.200] [sharedprocess] [info] Downloaded extension: vscode-firefox-debug
+[2018-07-01 22:52:36.469] [sharedprocess] [info] Installing extension: debugger-for-chrome
+[2018-07-01 22:52:36.686] [sharedprocess] [info] Scanned user extensions: 44
+[2018-07-01 22:52:37.995] [sharedprocess] [info] Downloaded extension: debugger-for-chrome
+[2018-07-01 22:52:44.083] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.7.0: msjsdiag.debugger-for-chrome-4.7.0
+[2018-07-01 22:52:44.083] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/msjsdiag.debugger-for-chrome-4.7.0
+[2018-07-01 22:52:44.083] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome-4.7.0
+[2018-07-01 22:52:44.118] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2018-07-01 22:52:44.524] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:52:44.556] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:52:50.425] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.eg2.tslint-1.0.32: eg2.tslint-1.0.32
+[2018-07-01 22:52:50.430] [sharedprocess] [info] Rename failed. Deleting from extracted location /home/mel/.vscode/extensions/.eg2.tslint-1.0.32
+[2018-07-01 22:52:50.916] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:52:52.285] [sharedprocess] [error] Failed to install extension: eg2.tslint ENOTEMPTY: directory not empty, rename '/home/mel/.vscode/extensions/.eg2.tslint-1.0.32' -> '/home/mel/.vscode/extensions/eg2.tslint-1.0.32'
+[2018-07-01 22:52:52.671] [sharedprocess] [info] Scanned user extensions: 44
+[2018-07-01 22:52:52.701] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:52:55.402] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.hbenl.vscode-firefox-debug-1.4.1: hbenl.vscode-firefox-debug-1.4.1
+[2018-07-01 22:52:55.402] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/hbenl.vscode-firefox-debug-1.4.1
+[2018-07-01 22:52:55.402] [sharedprocess] [info] Installation completed. hbenl.vscode-firefox-debug-1.4.1
+[2018-07-01 22:52:55.461] [sharedprocess] [info] Extensions installed successfully: hbenl.vscode-firefox-debug
+[2018-07-01 22:52:55.860] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:52:55.886] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:53:11.435] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:53:11.445] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:53:11.506] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:53:11.591] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:53:11.629] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:53:11.653] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:53:11.660] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:53:11.722] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:53:11.759] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:53:16.956] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:53:28.638] [sharedprocess] [info] Installing extension: tslint
+[2018-07-01 22:53:28.808] [sharedprocess] [info] Scanned user extensions: 45
+[2018-07-01 22:53:29.229] [sharedprocess] [info] Downloaded extension: tslint
+[2018-07-01 22:53:29.313] [sharedprocess] [info] Removed the extension from uninstalled list: eg2.tslint-1.0.32
+[2018-07-01 22:53:29.800] [sharedprocess] [info] Scanned user extensions: 46
+[2018-07-01 22:53:29.820] [sharedprocess] [info] Extensions installed successfully: eg2.tslint
+[2018-07-01 22:53:30.671] [sharedprocess] [info] Scanned user extensions: 46
+[2018-07-01 22:53:30.748] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:53:34.380] [sharedprocess] [info] Installing extension: beautify
+[2018-07-01 22:53:34.579] [sharedprocess] [info] Scanned user extensions: 46
+[2018-07-01 22:53:35.228] [sharedprocess] [info] Downloaded extension: beautify
+[2018-07-01 22:53:38.239] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.HookyQR.beautify-1.3.2: HookyQR.beautify-1.3.2
+[2018-07-01 22:53:38.240] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/HookyQR.beautify-1.3.2
+[2018-07-01 22:53:38.240] [sharedprocess] [info] Installation completed. HookyQR.beautify-1.3.2
+[2018-07-01 22:53:38.502] [sharedprocess] [info] Extensions installed successfully: HookyQR.beautify
+[2018-07-01 22:53:39.181] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:53:39.234] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:53:48.077] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:53:48.129] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:53:48.261] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:53:48.302] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:53:48.328] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:53:48.718] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:53:48.764] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:53:48.805] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-01 22:53:49.027] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:53:54.279] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:57:43.665] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:58:00.854] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 22:58:55.301] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 23:03:55.836] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 23:08:56.365] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 23:13:56.536] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 23:18:56.714] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-01 23:23:56.889] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 09:58:05.418] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 10:03:05.988] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 10:08:07.012] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 10:13:07.391] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 10:18:07.837] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 10:23:08.117] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 10:28:08.280] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 10:33:08.457] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 10:52:19.940] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 10:57:20.167] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 11:02:20.516] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 11:07:21.014] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 11:12:21.403] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 11:17:07.654] [sharedprocess] [info] Installing extension: vs-color-picker
+[2018-07-02 11:17:07.842] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 11:17:07.974] [sharedprocess] [info] Installing extension: vs-color-picker
+[2018-07-02 11:17:08.092] [sharedprocess] [info] Scanned user extensions: 47
+[2018-07-02 11:17:08.289] [sharedprocess] [info] Downloaded extension: vs-color-picker
+[2018-07-02 11:17:08.350] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.lihui.vs-color-picker-0.7.0: lihui.vs-color-picker-0.7.0
+[2018-07-02 11:17:08.352] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/lihui.vs-color-picker-0.7.0
+[2018-07-02 11:17:08.352] [sharedprocess] [info] Installation completed. lihui.vs-color-picker-0.7.0
+[2018-07-02 11:17:08.388] [sharedprocess] [info] Extensions installed successfully: lihui.vs-color-picker
+[2018-07-02 11:17:08.392] [sharedprocess] [info] Extensions installed successfully: lihui.vs-color-picker
+[2018-07-02 11:17:08.852] [sharedprocess] [info] Scanned user extensions: 48
+[2018-07-02 11:17:08.909] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-02 11:17:21.601] [sharedprocess] [info] Scanned user extensions: 48
+[2018-07-02 11:19:12.899] [sharedprocess] [info] Installing extension: rainbow-csv
+[2018-07-02 11:19:13.052] [sharedprocess] [info] Scanned user extensions: 48
+[2018-07-02 11:19:13.476] [sharedprocess] [info] Downloaded extension: rainbow-csv
+[2018-07-02 11:19:13.833] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.mechatroner.rainbow-csv-0.4.2: mechatroner.rainbow-csv-0.4.2
+[2018-07-02 11:19:13.834] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/mechatroner.rainbow-csv-0.4.2
+[2018-07-02 11:19:13.834] [sharedprocess] [info] Installation completed. mechatroner.rainbow-csv-0.4.2
+[2018-07-02 11:19:13.860] [sharedprocess] [info] Extensions installed successfully: mechatroner.rainbow-csv
+[2018-07-02 11:19:14.272] [sharedprocess] [info] Scanned user extensions: 49
+[2018-07-02 11:19:14.317] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-02 11:19:14.900] [sharedprocess] [info] Installing extension: indent-rainbow
+[2018-07-02 11:19:15.001] [sharedprocess] [info] Scanned user extensions: 49
+[2018-07-02 11:19:16.841] [sharedprocess] [info] Downloaded extension: indent-rainbow
+[2018-07-02 11:19:27.198] [sharedprocess] [info] Extracted extension to /home/mel/.vscode/extensions/.oderwat.indent-rainbow-7.2.2: oderwat.indent-rainbow-7.2.2
+[2018-07-02 11:19:27.199] [sharedprocess] [info] Renamed to /home/mel/.vscode/extensions/oderwat.indent-rainbow-7.2.2
+[2018-07-02 11:19:27.199] [sharedprocess] [info] Installation completed. oderwat.indent-rainbow-7.2.2
+[2018-07-02 11:19:27.241] [sharedprocess] [info] Extensions installed successfully: oderwat.indent-rainbow
+[2018-07-02 11:19:27.677] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:19:27.687] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-02 11:19:41.661] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:19:41.668] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:19:41.693] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:19:41.705] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:19:41.712] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:19:41.768] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-02 11:19:41.798] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-02 11:19:41.824] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-02 11:19:42.036] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:19:47.419] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:20:03.316] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:20:03.372] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-02 11:24:48.148] [sharedprocess] [info] Scanned user extensions: 50
+[2018-07-02 11:29:48.398] [sharedprocess] [info] Scanned user extensions: 50

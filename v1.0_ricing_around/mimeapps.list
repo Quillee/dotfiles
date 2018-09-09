@@ -1,0 +1,15 @@
+[Added Associations]
+application/vnd.oasis.opendocument.spreadsheet=libreoffice-calc.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+text/x-c++src=vim.desktop;
+application/zip=file-roller.desktop;
+image/png=ristretto.desktop;
+text/plain=vim.desktop;
+application/pdf=evince.desktop;
+text/x-install=vim.desktop;
+image/jpeg=firefox.desktop;ristretto.desktop;
+text/html=firefox.desktop;
+text/x-makefile=vim.desktop;
+application/x-shellscript=vim.desktop;
+application/x-ms-dos-executable=org.gnome.FileRoller.desktop;

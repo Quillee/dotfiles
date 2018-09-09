@@ -1,0 +1,7 @@
+[Error - 12:38:51 PM] Jul 1, 2018 12:38:34 PM Error occured while building workspace. Details: 
+message: The declared package "" does not match the expected package "com.example.beer";code: 536871240
+message: Syntax error on token ",", invalid AssignmentOperator;code: 1610612971
+message: Syntax error, insert ")" to complete MethodInvocation;code: 1610612976
+message: Syntax error, insert ";" to complete BlockStatements;code: 1610612976
+message: Stream cannot be resolved;code: 570425394
+message: The left-hand side of an assignment must be a variable;code: 1610612959

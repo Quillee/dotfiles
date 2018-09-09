@@ -1,0 +1,84 @@
+[ 23:00:10 | command ] git rev-parse --show-toplevel
+[ 23:00:10 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:00:10 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/.gitignore" is not a decendant of a git repository
+[ 23:00:12 | command ] git rev-parse --show-toplevel
+[ 23:00:13 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:00:13 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/registerServiceWorker.js" is not a decendant of a git repository
+[ 23:00:56 | command ] git rev-parse --show-toplevel
+[ 23:00:56 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:00:56 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" is not a decendant of a git repository
+[ 23:01:02 | command ] git rev-parse --show-toplevel
+[ 23:01:03 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:01:03 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js" is not a decendant of a git repository
+[ 23:04:10 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/.gitignore" from the internal cache
+[ 23:04:13 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/registerServiceWorker.js" from the internal cache
+[ 23:04:56 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" from the internal cache
+[ 23:06:48 | command ] git rev-parse --show-toplevel
+[ 23:06:49 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:06:49 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" is not a decendant of a git repository
+[ 23:07:04 | command ] git rev-parse --show-toplevel
+[ 23:07:05 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:07:05 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/public/index.html" is not a decendant of a git repository
+[ 23:09:03 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js" from the internal cache
+[ 23:10:49 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" from the internal cache
+[ 23:19:42 | command ] git rev-parse --show-toplevel
+[ 23:19:42 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:19:42 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/public/resources/bootstrap/css/style.css" is not a decendant of a git repository
+[ 23:23:27 | command ] git rev-parse --show-toplevel
+[ 23:23:27 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:23:27 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" is not a decendant of a git repository
+[ 23:23:27 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" is not a decendant of a git repository
+[ 23:23:29 | command ] git rev-parse --show-toplevel
+[ 23:23:29 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:23:29 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js" is not a decendant of a git repository
+[ 23:23:29 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js" is not a decendant of a git repository
+[ 23:23:42 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/public/resources/bootstrap/css/style.css" from the internal cache
+[ 23:23:43 | command ] git rev-parse --show-toplevel
+[ 23:23:43 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 23:23:43 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.js" is not a decendant of a git repository
+[ 23:27:05 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/public/index.html" from the internal cache
+[ 23:27:27 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" from the internal cache
+[ 23:27:29 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js" from the internal cache
+[ 18:25:13 | command ] git rev-parse --show-toplevel
+[ 18:25:13 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 18:25:13 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" is not a decendant of a git repository
+[ 18:25:13 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" is not a decendant of a git repository
+[ 18:25:14 | command ] git rev-parse --show-toplevel
+[ 18:25:14 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 18:25:14 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js" is not a decendant of a git repository
+[ 18:25:14 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js" is not a decendant of a git repository
+[ 18:27:38 | command ] git rev-parse --show-toplevel
+[ 18:27:39 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 18:27:39 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.jsx" is not a decendant of a git repository
+[ 18:27:39 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.jsx" is not a decendant of a git repository
+[ 18:27:59 | command ] git rev-parse --show-toplevel
+[ 18:27:59 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 18:27:59 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.jsx" is not a decendant of a git repository
+[ 18:28:14 | command ] git rev-parse --show-toplevel
+[ 18:28:14 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 18:28:14 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/searchbar.js" is not a decendant of a git repository
+[ 18:28:20 | command ] git rev-parse --show-toplevel
+[ 18:28:20 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 18:28:20 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/searchbar.jsx" is not a decendant of a git repository
+[ 18:29:14 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.js" from the internal cache
+[ 18:29:14 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/index.js" from the internal cache
+[ 18:31:02 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.js" from the internal cache
+[ 18:31:39 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.jsx" from the internal cache
+[ 18:31:59 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/App.jsx" from the internal cache
+[ 18:32:14 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/searchbar.js" from the internal cache
+[ 18:40:58 | command ] git rev-parse --show-toplevel
+[ 18:40:58 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 18:40:58 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/README.md" is not a decendant of a git repository
+[ 18:41:19 | command ] git rev-parse --show-toplevel
+[ 18:41:19 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 18:41:19 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/public/index.html" is not a decendant of a git repository
+[ 18:41:19 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/public/index.html" is not a decendant of a git repository
+[ 18:42:17 | command ] git rev-parse --show-toplevel
+[ 18:42:17 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
+[ 18:42:17 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.jsx" is not a decendant of a git repository
+[ 18:42:17 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.jsx" is not a decendant of a git repository
+[ 18:44:58 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/README.md" from the internal cache
+[ 18:45:19 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/public/index.html" from the internal cache
+[ 18:45:36 | info ] Will not try to blame file "/home/mel/.config/Code/User/settings.json" as it is outside of the current workspace
+[ 18:46:11 | info ] Will not try to blame file "/0/settings.json" as it is outside of the current workspace
+[ 18:46:17 | info ] Clearing the file "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/main.jsx" from the internal cache

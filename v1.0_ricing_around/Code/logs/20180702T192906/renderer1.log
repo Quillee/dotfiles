@@ -1,0 +1,24 @@
+[2018-07-02 19:45:25.356] [renderer1] [error] Invalid arguments: Error: Invalid arguments
+	at new e (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:433:834)
+	at asRange (/home/mel/.vscode/extensions/redhat.java-0.27.0/node_modules/vscode-languageclient/lib/protocolConverter.js:59:16)
+	at asLocation (/home/mel/.vscode/extensions/redhat.java-0.27.0/node_modules/vscode-languageclient/lib/protocolConverter.js:296:59)
+	at item.map (/home/mel/.vscode/extensions/redhat.java-0.27.0/node_modules/vscode-languageclient/lib/protocolConverter.js:286:43)
+	at Array.map (native)
+	at asDefinitionResult (/home/mel/.vscode/extensions/redhat.java-0.27.0/node_modules/vscode-languageclient/lib/protocolConverter.js:286:25)
+	at propagateAslWrapper (/home/mel/.vscode/extensions/vscjava.vscode-maven-0.9.0/node_modules/async-listener/index.js:502:23)
+	at /home/mel/.vscode/extensions/vscjava.vscode-maven-0.9.0/node_modules/async-listener/glue.js:188:31
+	at /home/mel/.vscode/extensions/vscjava.vscode-maven-0.9.0/node_modules/async-listener/index.js:539:70
+	at /home/mel/.vscode/extensions/vscjava.vscode-maven-0.9.0/node_modules/async-listener/glue.js:188:31
+	at <anonymous>
+[2018-07-02 19:48:13.542] [renderer1] [error] Invalid arguments: Error: Invalid arguments
+	at new e (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:433:834)
+	at asRange (/home/mel/.vscode/extensions/redhat.java-0.27.0/node_modules/vscode-languageclient/lib/protocolConverter.js:59:16)
+	at asLocation (/home/mel/.vscode/extensions/redhat.java-0.27.0/node_modules/vscode-languageclient/lib/protocolConverter.js:296:59)
+	at item.map (/home/mel/.vscode/extensions/redhat.java-0.27.0/node_modules/vscode-languageclient/lib/protocolConverter.js:286:43)
+	at Array.map (native)
+	at asDefinitionResult (/home/mel/.vscode/extensions/redhat.java-0.27.0/node_modules/vscode-languageclient/lib/protocolConverter.js:286:25)
+	at propagateAslWrapper (/home/mel/.vscode/extensions/vscjava.vscode-maven-0.9.0/node_modules/async-listener/index.js:502:23)
+	at /home/mel/.vscode/extensions/vscjava.vscode-maven-0.9.0/node_modules/async-listener/glue.js:188:31
+	at /home/mel/.vscode/extensions/vscjava.vscode-maven-0.9.0/node_modules/async-listener/index.js:539:70
+	at /home/mel/.vscode/extensions/vscjava.vscode-maven-0.9.0/node_modules/async-listener/glue.js:188:31
+	at <anonymous>

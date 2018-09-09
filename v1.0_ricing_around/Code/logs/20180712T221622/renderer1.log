@@ -1,0 +1,19 @@
+[2018-07-15 02:19:35.544] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+	at e.provideDocumentHighlights (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:651:915)
+	at /home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:665:942
+	at e._withAdapter (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:662:852)
+	at e.$provideDocumentHighlights (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:665:904)
+	at e._doInvokeHandler (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:737)
+	at e._invokeHandler (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:455)
+	at e._receiveRequest (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:529)
+	at e._receiveOneMessage (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:298)
+	at /home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:226
+	at /home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:600:324
+	at /home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/home/mel/prog/vscode/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
