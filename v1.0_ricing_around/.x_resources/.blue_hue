@@ -1,0 +1,40 @@
+! created using Terminal Sexy
+! similar to solarized_dark
+! uses a more vibrant look with brighter greens, purples, blues, etc
+! small use of pink(9 & 7) and red(11) => TESTING: to see how it feels
+! BY: Melvin Peralta 
+*.foreground:   #b7d6d6
+*.background:   #001e21
+*.cursorColor:  #b7d6d6
+
+! black
+*.color0:       #040404
+*.color8:       #00a5b5
+
+! red
+*.color1:       #5e14b9
+*.color9:       #d357d7
+
+! green
+*.color2:       #1ba776
+*.color10:      #42ded4
+
+! yellow
+*.color3:       #4a3b25
+*.color11:      #e47165
+
+! blue
+*.color4:       #1e5d75
+*.color12:      #3c7e96
+
+! magenta
+*.color5:       #4b4574
+*.color13:      #53569b
+
+! cyan
+*.color6:       #3f543c
+*.color14:      #7dbfb8
+
+! white
+*.color7:       #d696bb
+*.color15:      #f3d7d7

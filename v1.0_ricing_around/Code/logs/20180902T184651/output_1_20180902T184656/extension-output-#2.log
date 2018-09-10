@@ -1,3 +1,0 @@
-[ 18:47:21 | command ] git rev-parse --show-toplevel
-[ 18:47:21 | error ] Error: fatal: Not a git repository (or any of the parent directories): .git
-[ 18:47:21 | info ] File "/home/mel/_/__projects/d3_star_wars_app/src/main/view/src/Searchbar.jsx" is not a decendant of a git repository

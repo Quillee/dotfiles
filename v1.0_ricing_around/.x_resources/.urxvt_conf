@@ -1,0 +1,92 @@
+!____________________________________________________!
+!						     !
+!						     !
+!   ##	##  ######  ##	##  ##	    ##	#######	     !
+!   ##	##  ##	##    ##      #	   #	   #	     !
+!   ##	##  ## #      ##       #  #	   #	     !
+!   ######  ##  ##  ##	##	##	   #	     !
+!						     !
+!		    @ V1.0			     !
+!----------------------------------------------------!
+!#	  Melvin Peralta    ~	Quillee	            #!
+!____________________________________________________!
+
+!# URXVT Config
+!#  My rxvt-unicode config. Ive taken parts from other peoples
+!# dotfiles so that I can learn myself and take peoples 
+!# cool stuff
+
+!perl extensions lib
+URxvt.perl-lib:	    ~/.config/.urxvt
+
+! Title
+URxvt.title:Donna
+
+!Borders
+!URxvt.externalBorder: 20
+URxvt.internalBorder:16
+
+! Geometry, deadling with width and height of terminal
+!ROBOTO font- geometry
+!URxvt.geometry: 52x16
+URxvt.geometry: 69x22
+!URxvt.geometry: 80x24
+
+! depth, best to use with compositor
+URxvt.depth: 32
+
+!URxvt.background: [80]#000000 !opacity
+URxvt.tabstop: 4
+URxvt*mouseWheelScrollPage:           false
+
+!cursor blink?
+URxvt.cursorBlink:  false
+
+!font stuff
+!
+!temp font size
+URxvt.font: 9x15
+URxvt.lineSpace: -1
+!URxvt.font: xft: tlwg: size=14
+!URxvt*boldFont:    xft: Roboto:normal: size=12
+!URxvt*italicFont:xft:Roboto:italic:autohint=true:size=12
+!URxvt*boldItalicFont:xft:Roboto:bolditalic:italic:autohint=true:size=12
+URxvt.Buffered:true
+
+! Scroll bar
+!
+URxvt.scrollbar:    false
+
+!TTY ?
+URxvt.scrollTtyOutput:	false
+URxvt.scrollTtyKeypress:    true
+URxvt.scrollWithBuffer:	true
+
+! perl extensions
+!
+URxvt.iso14755:            false
+URxvt.iso14755_52: 	   false
+! font size change
+URxvt.keysym.C-Up:       perl:font-size:increase
+URxvt.keysym.C-Down:     perl:font-size:decrease
+! global fontt size change
+URxvt.keysym.C-S-Up:     perl:font-size:incglobal
+URxvt.keysym.C-S-Down: perl:font-size:decglobal
+
+! eyelash?
+!
+URxvt.tabbed.tabbar-bg: -1
+URxvt.tabbed.tabbar-fg: -2
+
+URxvt.tabbed.tab-bg: -2
+URxvt.tabbed.tab-fg: -1
+
+URxvt.tabbed.title-bg: -1
+URxvt.tabbed.title-fg: -2
+
+!auto hide
+URxvt.tabbed.autohide: true
+
+!new button
+URxvt.tabbed.new-button: false
+URxvt.tabbed.title: true

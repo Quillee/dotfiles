@@ -1,7 +1,0 @@
-[Info  - 7:29:39 PM] Linter is running.
-[Info  - 7:29:44 PM] TSLint library loaded from: /home/mel/_/__projects/java/spring_react_tutorial/client/node_modules/tslint/lib/index.js
-[Info  - 8:11:51 AM] Failed to load the TSLint library for the document /home/mel/prog/vscode/resources/app/extensions/node_modules/typescript/lib/lib.es5.d.ts
-To use TSLint for single file install tslint globally using 'npm install -g tslint'.
-TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
-You need to reopen VS Code after installing tslint.
-[Info  - 8:26:57 AM] vscode-tslint: Status is OK

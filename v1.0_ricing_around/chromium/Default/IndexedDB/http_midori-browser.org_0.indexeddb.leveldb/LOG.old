@@ -1,9 +1,0 @@
-2018/01/27-09:51:41.102 9904 Reusing MANIFEST /home/mel/.config/chromium/Default/IndexedDB/http_midori-browser.org_0.indexeddb.leveldb/MANIFEST-000001
-2018/01/27-09:51:41.742 9899 Current memtable full; waiting...
-2018/01/27-09:51:41.742 9947 Level-0 table #5: started
-2018/01/27-09:51:41.755 9947 Level-0 table #5: 752 bytes OK
-2018/01/27-09:51:41.763 9947 Delete type=0 #3
-2018/01/27-09:51:41.764 9947 Level-0 table #7: started
-2018/01/27-09:51:41.764 9947 Level-0 table #7: 0 bytes OK
-2018/01/27-09:51:41.774 9947 Delete type=0 #4
-2018/01/27-09:51:41.774 9947 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
